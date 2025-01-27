@@ -1,0 +1,10 @@
+.github/
+.gitlab/
+venv/
+.venv/
+Dockerfile
+.idea/
+__pycache__/
+.git/
+.gitignore
+.dockerignore
